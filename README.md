@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# 👋 Hello there! I'm [Filip Janik]
+
+I'm a passionate learner and developer currently diving into the world of Tailwind CSS and mastering Vanilla JavaScript. 🚀
+
+## 🛠️ Technologies & Tools
+
+- **Frontend:** HTML, CSS, JavaScript, Tailwind CSS
+- **Projects:** Landing pages, forms, and more
+- **Learning:** Exploring new technologies and frameworks
+
+## 🚀 What I'm Working On
+
+- Currently honing my skills in Tailwind CSS to create visually stunning and responsive user interfaces.
+- Building small projects, including dynamic landing pages with forms and interactive features.
+
+## 🌱 Learning Journey
+
+I believe in continuous learning, and GitHub is my coding playground. Check out my repositories to see my progress and evolving skills. Feel free to provide feedback or collaborate on any project!
+
+## 📈 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=issues&theme=radical)](https://github.com/your-username)
