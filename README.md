@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 👋 Hello there! I'm [Filip Janik]
+# 👋 Hello there! I'm Filip 😄
 
 I'm a passionate learner and developer currently diving into the world of Tailwind CSS and mastering Vanilla JavaScript. 🚀
 
