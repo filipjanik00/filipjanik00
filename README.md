@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **filipjanik00/filipjanik00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,6 +34,3 @@ I'm a passionate learner and developer currently diving into the world of Tailwi
 
 I believe in continuous learning, and GitHub is my coding playground. Check out my repositories to see my progress and evolving skills. Feel free to provide feedback or collaborate on any project!
 
-## 📈 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=issues&theme=radical)](https://github.com/your-username)
